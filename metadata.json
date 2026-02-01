@@ -1,0 +1,7 @@
+{
+  "name": "WeatherNow",
+  "description": "A next-generation weather application powered by Google Gemini 3 Flash with Search Grounding to provide real-time, accurate forecasts and weather analytics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
